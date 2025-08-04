@@ -10,10 +10,10 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-- [cite_start]🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando Pós-graduação em **Arquitetura de Sistemas** pela FIAP[cite: 8, 10].
-- [cite_start]💡 Tenho experiência em desenvolvimento back-end e front-end, automação de processos e segurança da informação[cite: 4, 5].
-- 🌱 Atualmente estou aprimorando meus conhecimentos em [Mencione uma tecnologia que está estudando, ex: Microsserviços com Spring Boot, Testes automatizados, etc.].
-- [cite_start]📫 Como me encontrar: **lucasratkevicius32@gmail.com** [cite: 2]
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando Pós-graduação em **Arquitetura de Sistemas** pela FIAP.
+- 💡 Tenho experiência em desenvolvimento back-end e front-end, automação de processos e segurança da informação.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em [Microsserviços com Spring Boot, Testes automatizados, Python, SQL avançado e Node].
+- 📫 Como me encontrar: lucasratkevicius32@gmail.com
 
 ---
 
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/SEU-USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lds13322&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lds13322&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
