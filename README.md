@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER" alt="Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/c934312b-3d0c-4ed4-bd1b-c07cc5589a96" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Lucas dos Santos 👋</h1>
