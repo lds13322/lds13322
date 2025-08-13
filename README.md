@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c934312b-3d0c-4ed4-bd1b-c07cc5589a96" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Olá, eu sou o Lucas dos Santos 👋</h1>
+<h1 align="center">Olá, sou o Lucas dos Santos 👋</h1>
 <p align="center">
   Um desenvolvedor e analista de sistemas apaixonado por transformar ideias em soluções de software robustas e eficientes.
 </p>
